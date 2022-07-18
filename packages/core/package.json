@@ -1,0 +1,9 @@
+{
+  "name": "@mojitok/core",
+  "main": "index.ts",
+  "version": "0.0.1",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "typescript": "4.1.3"
+  }
+}
