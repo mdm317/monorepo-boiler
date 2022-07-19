@@ -1,5 +1,5 @@
 {
-  "name": "@mojitok/core",
+  "name": "core",
   "main": "index.ts",
   "version": "0.0.1",
   "packageManager": "yarn@3.2.1",

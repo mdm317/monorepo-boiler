@@ -1,11 +1,11 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
-import str from '@mojitok/core'
+import { useState } from 'react';
+import reactLogo from './assets/react.svg';
+import './App.css';
+import str from '@mojitok/core';
 
 function App() {
-  const [count, setCount] = useState(0)
-  console.log(str)
+  const [count, setCount] = useState(0);
+  console.log(str);
   return (
     <div className="App">
       <h1>{`this is core value ::: ${str} `}</h1>
@@ -30,7 +30,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
